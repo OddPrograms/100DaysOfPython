@@ -29,13 +29,7 @@ question_bank = [
     # Question(question_data[1]["text"], question_data[1]["answer"]),
     # Question(question_data[2]["text"], question_data[2]["answer"]),
     # Question(question_data[3]["text"], question_data[3]["answer"]),
-    # Question(question_data[4]["text"], question_data[4]["answer"]),
-    # Question(question_data[5]["text"], question_data[5]["answer"]),
-    # Question(question_data[6]["text"], question_data[6]["answer"]),
-    # Question(question_data[7]["text"], question_data[7]["answer"]),
-    # Question(question_data[8]["text"], question_data[8]["answer"]),
-    # Question(question_data[9]["text"], question_data[9]["answer"]),
-    # Question(question_data[10]["text"], question_data[10]["answer"])
+    # Etc.
 ]
 
 '''Loops through the question_data to fill question_bank. More efficient than above.'''

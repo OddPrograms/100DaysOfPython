@@ -1,0 +1,2 @@
+# This will set a default email, erase line 2 if not needed.
+email@email.com
